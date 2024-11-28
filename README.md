@@ -6,7 +6,8 @@ So we have 27 used vapes. This will give us in total 27x360=9720mAh.
 ![a lot of vapes](img/IMG_0471.jpg)
 
 Carefully disassemble the vape. Remove the bottom cover with pliers. Take out the contents and disconnect the battery.
-
+![a lot of batteries](img/disassembled1.JPG)
+![a lot of batteries](img/disassembled2.JPG)
 ![a lot of batteries](img/IMG_0472.jpg)
 
 Place batteries side by side with the positive terminal right side up on one battery and the negative terminal right side up on the other. Use electrical tape around the middle of the batteries to secure them together.
